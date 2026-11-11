@@ -1,0 +1,5 @@
+build/
+shots/
+*.log
+*.user
+dist/

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Luma Terminal
+Name[zh_CN]=Luma 终端
+Comment=Modern macOS-style terminal with split panes
+Comment[zh_CN]=支持分屏的 macOS 风格现代终端
+Exec=luma
+Icon=luma
+Terminal=false
+Categories=System;TerminalEmulator;
+Keywords=terminal;shell;console;split;
+StartupNotify=true
+StartupWMClass=luma
